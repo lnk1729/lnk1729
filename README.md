@@ -18,6 +18,9 @@ Currently, I'm expanding my horizons by exploring Flutter. Somebody's gotta end 
 ### 🏃‍♂️ Personal Interests
 When I'm not coding, you can find me on the badminton court or playing football (The British one).
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnk1729&layout=compact&theme=radical)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lnk1729&theme=dark)
+
 ### 📫 How to Reach Me
 [LinkedIn](https://www.linkedin.com/in/prathiksh-puttur)     [Email](mailto:hello@prathiksh.me)     [Twitter](https://twitter.com/lnk1729)
 
